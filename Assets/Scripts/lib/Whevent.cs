@@ -4,7 +4,6 @@ using System.Collections.Generic;
 /// <summary>
 /// 简易事件系统
 /// </summary>
-
 public static class Whevent {
 	internal class EventObject {
 		public bool once;
